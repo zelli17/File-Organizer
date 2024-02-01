@@ -1,2 +1,2 @@
 # File-Organizer
-Organize your files!
+One fine day, when I was on a discord call with some friends. I was screen sharing and they saw my downloads folder. my downloads folder is an unorganized mess which makes it look pretty ugly. My friends made fun of me. One of them showed me their downloads folder which was completely empty. I was jelous. After the call i thought about cleaning the downloads folder but I felt too lazy. So i had the great idea to automate my work using python. I'm very bad at coding. I cannot think like a coder but this helped me a lot. I feel confident on working on my own now. anyways, if you want to add more extensions add more elif statements in the for loop.b That's pretty much it. Thank you
